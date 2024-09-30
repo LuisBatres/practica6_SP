@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7iAi/CHcZz41ManmWjE905mja1crBEjNOg+ukp4+aFf09hB2Borz3ZgfT+eJqKQASi5xGI2cLSkmTcjaLfNcXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisb\\OneDrive\\Pictures\\PuertoSerie\\PuertoSerie\\PuertoSerie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisb\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\luisb\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\luisb\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\luisb\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\luisb\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\luisb\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\luisb\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
